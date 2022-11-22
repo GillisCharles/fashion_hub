@@ -1,0 +1,94 @@
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+.nav-custom {
+  background-color: #797842;
+  color: #fff;
+}
+
+.custom-font-color {
+  color: #fff;
+}
+
+.custom-font-color:hover {
+  color: #fff;
+}
+
+.custom-jumbotron {
+  background: rgba(0, 0, 0, 0.836) ;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  background-image: url('../img/hub1.jpg');
+}
+
+.btn-custom {
+  background-color: #797842;
+  border: none;
+  color: #fff;
+}
+
+.btn-custom:hover {
+  background-color: #797842;
+  color: #fff;
+}
+
+.custom-padding {
+  padding-bottom: 20px;
+}
+
+.about-solid {
+  height: 600px;
+  background-color: #797842;
+  color: #fff;
+  padding: 230px 0 0 40px;
+}
+
+#right-1 {
+  height: 600px;
+  background-image: url('../img/fashion3.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#left-1 {
+  height: 600px;
+  background-image: url('../img/hub5.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#right-2 {
+  height: 600px;
+  background-image: url('../img/fashion50.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#left-2 {
+  height: 600px;
+  background-image: url('../img/fashon20.png');
+  background-position: center;
+  background-size: cover;
+}
+
+#spacing {
+  margin-top: 30px;
+}
+
+#contact-img {
+  background-image: url('../img/fashion300.jpg');
+  background-position: center;
+  background-size: cover;
+  padding: 30px 60px;
+  margin-top: 40px;
+  color: #fff;
+}
+
+
+
+
+
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Special Elite', cursive*/
